@@ -1,2 +1,3 @@
 # lrz501.github.io
-Personal Info
+Name: Ruizhi Li
+Mail:liruizhi23@mails.ucas.ac.cn
